@@ -134,7 +134,7 @@ I'm always keen to connect with fellow engineers, researchers, and recruiters wo
   <a href="https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nithinreddy.malluri@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://github.com/nithinreddy18">
