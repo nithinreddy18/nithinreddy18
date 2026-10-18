@@ -142,9 +142,6 @@ I am always happy to connect with engineers, researchers, and hiring teams worki
     <img src="https://img.shields.io/badge/Open_Mail_App-334155?style=for-the-badge&logo=protonmail&logoColor=white" alt="Open Mail App" />
   </a>
 
-  <p align="center">
-    📫 Direct Email: <b><a href="mailto:nithinreddy.malluri@gmail.com">nithinreddy.malluri@gmail.com</a></b>
-  </p>
 
   <sub>⭐️ Crafted by <a href="https://github.com/nithinreddy18">Malluri Nithin Reddy</a> · Always learning, always building.</sub>
 
