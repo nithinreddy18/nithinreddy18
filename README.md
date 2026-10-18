@@ -137,10 +137,7 @@ I am always happy to connect with engineers, researchers, and hiring teams worki
   <a href="https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <!-- Default Mail Client Link -->
-  <a href="mailto:nithinreddy.malluri@gmail.com">
-    <img src="https://img.shields.io/badge/Open_Mail_App-334155?style=for-the-badge&logo=protonmail&logoColor=white" alt="Open Mail App" />
-  </a>
+
 
 
   <sub>⭐️ Crafted by <a href="https://github.com/nithinreddy18">Malluri Nithin Reddy</a> · Always learning, always building.</sub>
