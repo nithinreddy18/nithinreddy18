@@ -1,145 +1,146 @@
+Here is the complete, ready-to-use `README.md` content designed for your `nithinreddy18/nithinreddy18` repository.
+
+```markdown
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
+  <!-- Animated Typing Header -->
   <a href="https://github.com/nithinreddy18">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Malluri+Nithin+Reddy+%F0%9F%91%8B;M.Sc.+AI+%26+ML+Student+at+TU+Darmstadt;Building+Agentic+AI,+RAG+Systems+%26+Data+Pipelines;Bridging+Deep+Learning+Research+%26+Production+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Malluri+Nithin+Reddy+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Building+Agentic+Workflows+%26+LLM+Systems;Architecting+Scalable+Data+%26+ML+Pipelines" alt="Typing SVG" />
   </a>
 
-  <!-- Reliable Static Header Badges -->
   <p align="center">
-    <a href="https://www.tu-darmstadt.de/">
-      <img src="https://img.shields.io/badge/M.Sc._AI_%26_ML-TU_Darmstadt-990000?style=for-the-badge&logo=academia&logoColor=white" alt="TU Darmstadt" />
-    </a>
+    <strong>M.Sc. in AI & Machine Learning @ TU Darmstadt 🇩🇪</strong><br>
+    <em>Bridging deep learning research and production-grade software engineering.</em>
+  </p>
+
+  <!-- Quick Links & Profile Badges -->
+  <p align="center">
     <a href="https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/">
-      <img src="https://img.shields.io/badge/LinkedIn-Malluri_Nithin_Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nithinreddy.malluri@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Compose_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Compose Email in Gmail" />
+    <a href="https://github.com/nithinreddy18?tab=repositories">
+      <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Darmstadt,_Germany-1E293B?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=nithinreddy18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-## ⚡ About Me
+### ⚡ About Me
 
-I am an Artificial Intelligence and Machine Learning graduate student at **Technische Universität Darmstadt** with a strong foundation in Computer Science and Engineering. My work sits at the intersection of generative AI, scalable data engineering, and production software development.
+I am an AI and Machine Learning Engineer currently pursuing my Master's at **Technische Universität Darmstadt**. My background combines enterprise software engineering and data pipeline architecture with modern generative AI and computer vision. 
 
-Before beginning my Master's degree in Germany, I developed enterprise C# and C++ software components with Angular user interfaces as a Software Developer Apprentice at **Siemens**, and engineered high-throughput Python and SQL data pipelines as a Data Engineer Intern at **Increff**. Today, I design multi-agent workflows, enterprise retrieval-augmented generation pipelines, and deep learning architectures for computer vision and predictive modelling.
+Rather than leaving models in notebooks, I focus on end-to-end execution. I design multi-agent LLM systems, Retrieval-Augmented Generation (RAG) architectures, and low-latency inference services backed by clean APIs and containerised deployments.
 
----
-
-## 🎯 Personal Mission Statement
-
-> **To turn complex machine learning research into reliable, explainable, and scalable software systems that solve real-world industrial and everyday problems.**
-
-Great AI engineering takes more than training models in isolated notebooks. It demands clean data pipelines, resilient backend architectures, and intuitive human-centred interfaces.
+- 🎓 **Academic Focus:** Deep Learning, Probabilistic Graphical Models, NLP, and Computer Vision.
+- 💼 **Industry Foundation:** Former Software Developer Apprentice at **Siemens** (C++, C#, Angular) and Data Engineer Intern at **Increff** (Python, SQL, ETL).
+- 🔬 **Current Interests:** Autonomous AI agents, NeuroAI & brain-inspired representations, and 3D point-cloud processing.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🎯 Personal Mission Statement
 
-### Generative AI, Machine Learning & Vision
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=chainlink&logoColor=38BDF8" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-</p>
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-### Data Engineering, Full-Stack & Cloud MLOps
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+> *"To engineer intelligent systems that move beyond experimental benchmarks—transforming complex neural architectures and unstructured data into reliable, transparent, and scalable software that solves tangible real-world problems."*
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Technical Arsenal
 
-| Project | Overview & Impact | Core Stack | Repository |
+#### **AI, Machine Learning & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+#### **Languages & Core Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+#### **Backend, MLOps & Cloud Infrastructure**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF5722?style=flat-square&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+### 🚀 Featured Projects Showcase
+
+| Project | Core Stack | Architecture & Impact | Explore |
 | :--- | :--- | :--- | :---: |
-| **🚲 UniBike Fleet & Repair Analytics** | Full-stack AI mobility tracking platform featuring a React frontend, FastAPI backend, and a Llama 3.1 RAG agent for automated repair diagnostics. | `FastAPI` `React` `TypeScript` `Llama 3.1` `ChromaDB` | [View Repo](https://github.com/nithinreddy18/UniBike-Fleet-Repair-Analytics) |
-| **📄 AI Technical Doc Generator** | Automated developer tool combining Abstract Syntax Tree parsing with LLMs to extract code structure and generate comprehensive technical documentation. | `Python` `AST` `FastAPI` `LLMs` `Docker` | [View Repo](https://github.com/nithinreddy18/AI-Assisted-Technical-Documentation-Generator) |
-| **🏢 Scalable Enterprise RAG** | Production-grade retrieval-augmented generation pipeline built for high-accuracy semantic search, context reranking, and grounded LLM responses. | `Python` `LangChain` `Vector DB` `FastAPI` | [View Repo](https://github.com/nithinreddy18/Scalable-Enterprise-RAG) |
-| **📦 Large-Scale Time Series Forecaster** | Hybrid predictive analytics system combining PyTorch LSTMs and Random Forest architectures to optimise perishable inventory and demand forecasting. | `PyTorch` `LSTM` `Random Forest` `Pandas` | [View Repo](https://github.com/nithinreddy18/Large-Scale-Time-Series-Forecasting-System) |
-| **🏭 3D LiDAR Waste-to-Energy Optimiser** | Built during the hessian.AI Industry Challenge to estimate bunker fill volume from 3D LiDAR point clouds and optimise waste-mix crane schedules. | `PyTorch` `3D Point Clouds` `Python` `Optimisation` | [Explore](https://github.com/nithinreddy18?tab=repositories) |
-| **🕵️ RoBERTa AI Content Detector** | Natural language classification pipeline using a fine-tuned RoBERTa transformer that achieves 94% accuracy in identifying AI-generated text. | `PyTorch` `Hugging Face` `RoBERTa` `Scikit-learn` | [Explore](https://github.com/nithinreddy18?tab=repositories) |
+| **🚲 UniBike Fleet & Repair Analytics** | `Llama 3.1` `FastAPI` `React` `ChromaDB` | Full-stack smart mobility platform featuring an autonomous RAG agent for automated repair diagnostics, fleet tracking, and predictive maintenance workflows. | [View Repo](https://github.com/nithinreddy18?tab=repositories) |
+| **📄 AST-Driven AI Doc Generator** | `Python` `LLMs` `AST` `FastAPI` `Docker` | Automated documentation engine that parses Abstract Syntax Trees to map code structure and synthesises context-aware technical docs via LLM pipelines. | [View Repo](https://github.com/nithinreddy18?tab=repositories) |
+| **🕵️‍♂️ RoBERTa AI Content Detector** | `PyTorch` `Transformers` `Scikit-Learn` | Fine-tuned transformer classification pipeline achieving **94% accuracy** in distinguishing human-written prose from synthetic LLM-generated text. | [View Repo](https://github.com/nithinreddy18?tab=repositories) |
+| **📦 Perishable Inventory Forecaster** | `PyTorch` `LSTM` `Random Forest` | Hybrid time-series forecasting engine combining recurrent neural networks with ensemble trees to optimise supply-chain stock levels and reduce spoilage. | [View Repo](https://github.com/nithinreddy18?tab=repositories) |
+| **🖐️ Vision Gesture Media Controller** | `OpenCV` `MediaPipe` `Python` | Real-time computer vision interface delivering low-latency, hands-free OS and media control with **92% gesture recognition accuracy**. | [View Repo](https://github.com/nithinreddy18?tab=repositories) |
+| **😷 Real-Time Face Mask Detection** | `TensorFlow` `Keras` `OpenCV` | High-throughput deep learning vision pipeline built for live video streams, achieving **95% detection accuracy** in varied lighting conditions. | [View Repo](https://github.com/nithinreddy18?tab=repositories) |
 
 ---
 
-## 🏆 Experience & Engineering Highlights
+### 🏆 Engineering & Activity Highlights
 
-* **🎓 M.Sc. in AI & ML at TU Darmstadt** · Completing advanced graduate coursework and projects across Large Language Models, Probabilistic Graphical Models, Computer Vision, and Data Mining.
-* **⚙️ Software Developer Apprentice at Siemens** · Engineered modular C# and C++ backend components and interactive Angular interfaces within an enterprise agile workflow.
-* **📊 Data Engineer Intern at Increff** · Built and optimised automated Python and SQL data pipelines for large-scale retail and supply-chain analytics.
-* **🏅 hessian.AI Hackathon Finalist Team** · Collaborated in a four-person engineering team to solve real-time 3D LiDAR bunker volume estimation and autonomous crane scheduling for a waste-to-energy plant.
-
----
-
-## 🧠 Current Learning Goals & Roadmap
-
-### 🌱 What I Am Exploring Right Now
-* **NeuroAI & Brain-Model Alignment** · Investigating Representational Similarity Analysis and deep vision backbone feature extraction to compare biological and artificial neural representations.
-* **Stateful Multi-Agent Systems** · Designing cyclic, tool-using agent architectures with deterministic guardrails and persistent memory using LangGraph.
-* **High-Performance Data Engines** · Benchmarking Polars and vectorised query execution for low-latency feature engineering on large datasets.
-
-### 🗺️ 2026–2027 Engineering Roadmap
-- [x] Launch full-stack RAG mobility analytics platform with automated CI/CD workflows.
-- [x] Ship enterprise RAG and AST-based automated code documentation repositories.
-- [x] Compete in industrial AI hackathons solving 3D spatial perception and optimisation challenges.
-- [ ] **Q4 2026** · Publish reproducible benchmarks comparing deep vision architectures with neural activity representations.
-- [ ] **Q1 2027** · Release an open-source Python CLI package for AST-driven codebase indexing and agentic code review.
-- [ ] **Q2 2027** · Scale distributed LLM fine-tuning and high-throughput inference deployments using vLLM and Docker.
+- **⚡ Industrial AI Hackathon (hessian.AI):** Engineered 3D LiDAR point-cloud processing models for bunker fill-level estimation and automated waste-mix optimisation in a Waste-to-Energy challenge.
+- **🏢 Enterprise Software @ Siemens:** Built modular C++ and C# backend components alongside responsive Angular interfaces inside large-scale industrial codebases.
+- **📊 High-Volume Data Pipelines @ Increff:** Designed and optimised automated Python and SQL ETL workflows to process retail and supply-chain datasets at scale.
+- **🧠 NeuroAI & Vision Exploration:** Working with representational similarity analysis (RSA) and deep vision backbones to compare biological and artificial neural representations.
 
 ---
 
-## 📬 Contact & Connect
-
-I am always happy to connect with engineers, researchers, and hiring teams working on **Applied AI, LLM Infrastructure, Computer Vision, or Data Engineering**. Whether you want to discuss a project, collaborate on open-source code, or talk about working student and graduate opportunities in Germany, reach out through any of the channels below.
+### 📈 GitHub Telemetry
 
 <div align="center">
-
-  <!-- Direct Gmail Web Compose Link -->
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nithinreddy.malluri@gmail.com&su=Connecting%20from%20your%20GitHub%20Profile">
-    <img src="https://img.shields.io/badge/Send_Email_via_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email via Gmail" />
-  </a>
-  <!-- LinkedIn Profile Link -->
-  <a href="https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-
-
-
-  <sub>⭐️ Crafted by <a href="https://github.com/nithinreddy18">Malluri Nithin Reddy</a> · Always learning, always building.</sub>
-
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nithinreddy18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Nithin's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinreddy18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinreddy18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🌱 Current Learning Goals & Technical Roadmap
+
+#### **Current Focus Areas**
+- **Multi-Agent Orchestration:** Designing stateful, cyclical agent workflows using LangGraph with deterministic tool-use verification.
+- **Efficient LLM Inference:** Mastering quantisation (AWQ, GGUF), LoRA/QLoRA fine-tuning, and high-throughput serving with vLLM.
+- **NeuroAI & Explainability:** Investigating how vision transformers and CNNs align with human visual cortex representations.
+
+#### **2026–2027 Engineering Roadmap**
+- [x] **Phase 1 — Foundation:** Deploy containerised RAG systems, hybrid time-series forecasters, and AST-based developer tooling.
+- [x] **Phase 2 — Spatial & Industrial AI:** Apply 3D point-cloud deep learning and computer vision to physical-world optimisation problems.
+- [ ] **Phase 3 — Autonomous Agentic Systems *(In Progress)*:** Build self-correcting multi-agent pipelines with evaluation harnesses and memory persistence.
+- [ ] **Phase 4 — Distributed MLOps & Research:** Publish open-source benchmarks in NeuroAI/Vision and scale distributed model training across multi-GPU clusters.
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+I am always open to discussing **AI/ML research collaborations**, **Working Student / Internship opportunities in Germany**, **open-source contributions**, or **system architecture challenges**.
+
+- 💼 **LinkedIn:** [in/nithin-reddy-malluri-54198b272](https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/) — *Best for direct messages, professional networking, and role inquiries.*
+- 🐙 **GitHub Issues & PRs:** [@nithinreddy18](https://github.com/nithinreddy18) — *Open an issue or discussion on any of my repositories for code-specific questions.*
+- 📍 **Location:** Darmstadt / Frankfurt Rhine-Main Area, Germany (Open to hybrid and remote collaboration).
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Built%20with-Passion%20%26%20PyTorch-EE4C2C?style=flat-square" alt="Footer Badge" />
+</div>
+
+```
