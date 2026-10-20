@@ -1,333 +1,308 @@
 <div align="center">
 
-  <!-- Dynamic Animated SVG Header -->
-  <a href="https://github.com/nithinreddy18">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=MALLURI+NITHIN+REDDY+%2F%2F+AI+%26+ML+ENGINEER;Building+Autonomous+Agentic+Workflows+%26+RAG+Systems;Bridging+Deep+Learning+Research+%26+Production+Code" alt="Animated Header" />
-  </a>
+  <!-- Dynamic Cyberpunk HUD Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=210&section=header&text=NITHIN-2026.10-INSTRUCT&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Autonomous+Agentic+Workflows+%7C+3D+Spatial+Vision+%7C+Scalable+Data+Pipelines&descAlignY=68&descSize=16" width="100%" alt="Header Banner" />
 
-  <!-- Live Status Pills -->
+  <!-- Hugging Face Style Model Card Metadata -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Agentic_AI_%26_NeuroAI-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/Academia-TU_Darmstadt_🇩🇪-004E8A?style=for-the-badge&logo=google-scholar&logoColor=white" alt="TU Darmstadt" />
-    <img src="https://komarev.com/ghpvc/?username=nithinreddy18&label=Profile+Visits&color=2ea44f&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/nithinreddy18"><img src="https://img.shields.io/badge/MODEL_ID-nithinreddy18%2Fai--engineer-1f6feb?style=flat-square&logo=huggingface&logoColor=white" alt="Model ID" /></a>
+    <a href="https://www.tu-darmstadt.de/"><img src="https://img.shields.io/badge/BASE_ARCHITECTURE-M.Sc._AI_%26_ML_@_TU_Darmstadt-8957e5?style=flat-square&logo=academia&logoColor=white" alt="TU Darmstadt" /></a>
+    <img src="https://img.shields.io/badge/PRECISION-PyTorch_%7C_C++_%7C_FastAPI-2ea043?style=flat-square&logo=pytorch&logoColor=white" alt="Precision" />
+    <img src="https://img.shields.io/badge/NODE_LOCATION-Darmstadt,_Germany_🇩🇪-d29922?style=flat-square" alt="Location" />
+    <img src="https://komarev.com/ghpvc/?username=nithinreddy18&label=TELEMETRY_HITS&color=0d1117&style=flat-square" alt="Profile Views" />
   </p>
 
-  <!-- Quick Connect Buttons -->
+  <!-- Interactive Console Navigation -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/nithinreddy18?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore_12+_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-    </a>
+    <kbd><a href="#01-objective-function">01 // Objective Function</a></kbd> ·
+    <kbd><a href="#02-live-inference-trace">02 // Inference Trace</a></kbd> ·
+    <kbd><a href="#03-capability-quadrant">03 // Skill Tensors</a></kbd> ·
+    <kbd><a href="#04-verified-benchmarks">04 // Benchmarks</a></kbd> ·
+    <kbd><a href="#05-execution-logs">05 // Field Logs</a></kbd> ·
+    <kbd><a href="#06-training-schedule">06 // Epochs</a></kbd> ·
+    <kbd><a href="#07-api-endpoints">07 // API Endpoints</a></kbd>
   </p>
 
 </div>
 
 ---
 
-### 🖥️ System Telemetry
+<a id="01-objective-function"></a>
+### `01 // EXECUTIVE ABSTRACT & OBJECTIVE FUNCTION`
 
-```diff
-+ SYSTEM ONLINE // nithin-ai-engine v2026.10
-===================================================================================
-  USER          >> Malluri Nithin Reddy (@nithinreddy18)
-  DEGREE        >> M.Sc. in Artificial Intelligence & Machine Learning @ TU Darmstadt
-  BACKGROUND    >> Ex-Software Dev Apprentice @ Siemens | Ex-Data Engineer @ Increff
-  CORE ENGINE   >> PyTorch, Hugging Face, LangGraph, FastAPI, Docker, C++, SQL
-  RESEARCH      >> NeuroAI, 3D Point-Cloud Deep Learning, Multi-Agent RAG
-  LOCATION      >> Darmstadt / Frankfurt Rhine-Main Metropolitan Region, Germany
-===================================================================================
-! STATUS        >> Open to Working Student roles, AI research, and open-source PRs
-```
+I am **Malluri Nithin Reddy**, an Artificial Intelligence and Machine Learning graduate engineer at **Technische Universität Darmstadt**. Most machine learning prototypes stall inside Jupyter notebooks. I engineer the missing bridge between mathematical research and resilient production software. 
+
+With an industrial foundation building enterprise C++ and C# systems at **Siemens** and high-volume Python and SQL data pipelines at **Increff**, I design multi-agent Large Language Model workflows, 3D spatial computer vision pipelines, and containerised microservices that hold up under real-world load.
+
+#### **The Personal Mission Directive**
+My engineering philosophy is governed by a single optimisation problem that minimises the gap between theoretical model capacity and deterministic production reliability:
+
+$$\min_{\theta} \mathcal{L}_{\text{system}}(\theta) = \underbrace{\alpha \cdot \mathcal{D}_{\text{KL}}\left(P_{\text{research}} \parallel Q_{\text{production}}\right)}_{\text{Zero-Hallucination Grounding}} + \underbrace{\beta \cdot \mathbb{E}\left[\text{Latency}_{\text{P99}}\right]}_{\text{Sub-Second Inference}} - \underbrace{\gamma \cdot \mathcal{I}\left(\text{Neural\_State}; \text{Human\_Intent}\right)}_{\text{NeuroAI \& Interpretability}}$$
 
 > [!IMPORTANT]
-> **Personal Mission Statement**
-> To engineer intelligent systems that move beyond experimental notebooks, transforming complex neural architectures and unstructured data into reliable, transparent, and scalable software that solves physical and enterprise challenges.
+> **Core Engineering Mandate**
+> To transform high-dimensional neural architectures and unstructured data streams into transparent, self-correcting, and production-grade software systems that solve physical and enterprise challenges.
 
 ---
 
-### 🧠 How I Architect Systems
+<a id="02-live-inference-trace"></a>
+### `02 // LIVE INFERENCE TRACE: HOW I ARCHITECT SYSTEMS`
 
-Rather than treating machine learning models as isolated scripts, I build end-to-end pipelines that connect raw data ingestion to low-latency production APIs.
+Instead of building isolated scripts, I treat every project as an end-to-end distributed system. Below is the execution trace of how raw multimodal data flows through my typical production stack.
 
 ```mermaid
-flowchart LR
-    subgraph Ingestion ["1. Data & Spatial Ingestion"]
-        A[Unstructured Text & Code ASTs]
-        B[Time-Series & SQL Streams]
-        C[2D Video & 3D LiDAR Point Clouds]
+sequenceDiagram
+    autonumber
+    actor Client as Client / Sensor Stream
+    participant Gateway as FastAPI / .NET Gateway
+    participant Preproc as AST / OpenCV / LiDAR Parser
+    participant Agent as LangGraph Orchestrator
+    participant Vector as ChromaDB / SQL Engine
+    participant Core as PyTorch / Llama 3.1 / RoBERTa
+
+    Client->>Gateway: Stream Unstructured Payload (Code, 3D Point Cloud, Video, Text)
+    Gateway->>Preproc: Normalise & Extract Deterministic Features
+    Preproc->>Agent: Dispatch Structured State Graph
+    par Semantic Context Retrieval
+        Agent->>Vector: Hybrid Vector + Metadata Query
+        Vector-->>Agent: Grounded Context Chunks
+    and Neural Forward Pass
+        Agent->>Core: Execute Tensor Inference (FP16 / Quantised)
+        Core-->>Agent: Calibrated Logits & Representations
     end
-
-    subgraph Core ["2. Neural & Agentic Core"]
-        D[LangGraph & Llama 3.1 RAG]
-        E[Fine-Tuned RoBERTa & LSTMs]
-        F[OpenCV, MediaPipe & Vision CNNs]
-    end
-
-    subgraph Production ["3. Production & MLOps"]
-        G[FastAPI & .NET Microservices]
-        H[ChromaDB & Vector Indexing]
-        I[Docker & GitHub Actions CI/CD]
-    end
-
-    A --> D
-    B --> E
-    C --> F
-    D --> H
-    H --> G
-    E --> G
-    F --> G
-    G --> I
-
-    style Ingestion fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style Core fill:#161b22,stroke:#a371f7,stroke-width:2px,color:#c9d1d9
-    style Production fill:#161b22,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
+    Agent->>Gateway: Validate Output Schema & Guardrails
+    Gateway-->>Client: Return Dockerised Low-Latency Response
 ```
 
 ---
 
-### 🛠️ Technical Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,cs,java,postgres,fastapi,dotnet,react,angular,docker,azure,gcp,git,githubactions,linux&perline=9" alt="Tech Stack Icons" />
-</div>
-
-<br>
+<a id="03-capability-quadrant"></a>
+### `03 // SKILL TENSORS & CAPABILITY QUADRANT`
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🧬 AI & Deep Learning</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/LangChain_%26_LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow_%26_Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV_%26_MediaPipe-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Net2Brain_%26_RSA-8A2BE2?style=flat-square" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚙️ Data & Backend Engineering</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++_%26_C%23-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Polars_%26_Pandas-CD792C?style=flat-square&logo=polars&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF5722?style=flat-square&logo=databricks&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">☁️ Cloud, Frontend & MLOps</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      </p>
+    <td width="48%" valign="middle">
+
+```mermaid
+quadrantChart
+    title Engineering Capability Matrix
+    x-axis "Systems & Infrastructure" --> "Neural & Mathematical Depth"
+    y-axis "Foundational Tooling" --> "Production Mastery"
+    quadrant-1 "Core AI Specialisation"
+    quadrant-2 "Enterprise Systems & MLOps"
+    quadrant-3 "Supporting Stack"
+    quadrant-4 "Active Research Frontier"
+    "PyTorch & Deep Learning": [0.85, 0.90]
+    "LLMs, RAG & LangGraph": [0.78, 0.88]
+    "OpenCV & 3D Vision": [0.72, 0.80]
+    "FastAPI & Python": [0.30, 0.92]
+    "SQL, Polars & ETL": [0.25, 0.84]
+    "Docker & CI/CD": [0.20, 0.78]
+    "C++, C# & .NET": [0.35, 0.72]
+    "React & Angular": [0.18, 0.65]
+    "NeuroAI & RSA": [0.90, 0.45]
+    "PGMs & Statistical ML": [0.82, 0.60]
+```
+
+</td>
+    <td width="52%" valign="top">
+      <h4>⚙️ Explicit Tensor Specifications</h4>
+      <p><b>🧠 Neural Architectures & GenAI</b><br>
+      <code>PyTorch</code> <code>TensorFlow</code> <code>Keras</code> <code>Hugging Face</code> <code>LangChain</code> <code>LangGraph</code> <code>Llama 3.1</code> <code>RoBERTa</code> <code>LSTM</code> <code>Scikit-learn</code></p>
+      <p><b>👁️ Spatial Vision & NeuroAI</b><br>
+      <code>OpenCV</code> <code>MediaPipe</code> <code>3D LiDAR Point Clouds</code> <code>Net2Brain</code> <code>Representational Similarity Analysis</code></p>
+      <p><b>⚡ High-Throughput Data & Backends</b><br>
+      <code>Python</code> <code>C++</code> <code>C#</code> <code>FastAPI</code> <code>ASP.NET Core</code> <code>Polars</code> <code>Pandas</code> <code>NumPy</code> <code>SQL</code> <code>ChromaDB</code></p>
+      <p><b>☁️ MLOps, Cloud & Interfaces</b><br>
+      <code>Docker</code> <code>GitHub Actions</code> <code>Azure Data Factory</code> <code>Google Cloud</code> <code>React</code> <code>Angular</code> <code>Git</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Bento Projects Showcase
+<a id="04-verified-benchmarks"></a>
+### `04 // VERIFIED PRODUCTION BENCHMARKS (PROJECT SHOWCASE)`
+
+Every repository is engineered to solve a concrete bottleneck. Click any **system inspection drawer** below to examine the underlying architecture.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚲 UniBike Fleet & Repair Analytics</h3>
+      <h4><code>SYS-01</code> 🚲 UniBike Fleet & Repair Analytics</h4>
       <p>
-        <img src="https://img.shields.io/badge/Llama_3.1-8A2BE2?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/ChromaDB-FF5722?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Agentic_RAG-8957e5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Llama_3.1_%7C_FastAPI_%7C_React-1f6feb?style=flat-square" />
       </p>
-      <p>Full-stack smart mobility platform engineered with an autonomous Retrieval-Augmented Generation agent for automated repair diagnostics, fleet telemetry tracking, and predictive maintenance scheduling.</p>
+      <p><code>Pipeline:</code> <code>Telemetry → ChromaDB → Llama 3.1 → React UI</code></p>
+      <p>Full-stack mobility intelligence platform featuring an autonomous RAG agent for automated bike repair diagnostics, fleet tracking, and predictive maintenance workflows.</p>
       <details>
-        <summary><b>🔍 View Architecture Highlights</b></summary>
+        <summary><kbd>▶ Inspect System Architecture & Specs</kbd></summary>
+        <br>
         <ul>
-          <li>Vectorised maintenance manuals in ChromaDB for sub-second semantic retrieval.</li>
-          <li>Built asynchronous REST endpoints in FastAPI with automated CI/CD via GitHub Actions.</li>
+          <li><b>Vector Engine:</b> Indexed technical repair manuals and historical ticket logs in ChromaDB for grounded semantic retrieval.</li>
+          <li><b>Backend & DevOps:</b> Asynchronous FastAPI microservices paired with automated GitHub Actions CI/CD pipelines.</li>
         </ul>
       </details>
-      <br>
-      <a href="https://github.com/nithinreddy18?tab=repositories"><b>📂 Explore Repository →</b></a>
+      <p align="right"><a href="https://github.com/nithinreddy18?tab=repositories"><kbd>↗ Launch Repository</kbd></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 AST-Driven AI Documentation Engine</h3>
+      <h4><code>SYS-02</code> 📄 AST-Driven AI Documentation Engine</h4>
       <p>
-        <img src="https://img.shields.io/badge/Python_AST-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/LLM_Pipelines-FFD21E?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-Compiler_AST_+_LLM-8957e5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-Python_%7C_FastAPI_%7C_Docker-1f6feb?style=flat-square" />
       </p>
-      <p>Developer tooling system that parses source code into Abstract Syntax Trees to extract dependency graphs and synthesise context-aware technical documentation automatically.</p>
+      <p><code>Pipeline:</code> <code>Source Code → AST Graph → LLM Synthesis → Markdown</code></p>
+      <p>Automated developer tool that parses codebases into Abstract Syntax Trees to extract deterministic structural graphs before generating technical documentation.</p>
       <details>
-        <summary><b>🔍 View Architecture Highlights</b></summary>
+        <summary><kbd>▶ Inspect System Architecture & Specs</kbd></summary>
+        <br>
         <ul>
-          <li>Eliminates hallucinated function signatures by grounding LLM prompts in deterministic AST node metadata.</li>
-          <li>Containerised microservice architecture ready for CI pipeline integration.</li>
+          <li><b>Zero-Hallucination Design:</b> Anchors LLM prompts strictly to extracted AST classes, call signatures, and dependency nodes.</li>
+          <li><b>Deployment:</b> Fully containerised via Docker with REST endpoints for seamless CI integration.</li>
         </ul>
       </details>
-      <br>
-      <a href="https://github.com/nithinreddy18?tab=repositories"><b>📂 Explore Repository →</b></a>
+      <p align="right"><a href="https://github.com/nithinreddy18?tab=repositories"><kbd>↗ Launch Repository</kbd></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕵️‍♂️ RoBERTa Synthetic Text Detector</h3>
+      <h4><code>SYS-03</code> 🕵️‍♂️ RoBERTa Synthetic Content Detector</h4>
       <p>
-        <img src="https://img.shields.io/badge/Accuracy-94%25-2ea44f?style=flat-square" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logoColor=black" />
+        <img src="https://img.shields.io/badge/Validation_Accuracy-94.0%25-2ea043?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-PyTorch_%7C_Transformers-1f6feb?style=flat-square" />
       </p>
-      <p>Fine-tuned transformer sequence classification model designed to detect subtle stylometric patterns and separate human writing from LLM-generated prose with 94% validation accuracy.</p>
-      <a href="https://github.com/nithinreddy18?tab=repositories"><b>📂 Explore Repository →</b></a>
+      <p><code>Confidence:</code> <code>███████████████████░ 94%</code></p>
+      <p>Fine-tuned RoBERTa sequence classification pipeline engineered to detect subtle token-distribution anomalies and distinguish human prose from LLM-generated text.</p>
+      <details>
+        <summary><kbd>▶ Inspect System Architecture & Specs</kbd></summary>
+        <br>
+        <ul>
+          <li><b>Training Strategy:</b> Fine-tuned attention layers using PyTorch, Hugging Face Transformers, and Scikit-learn evaluation harnesses.</li>
+          <li><b>Robustness:</b> Mitigates perplexity-burstiness evasion across diverse domain corpora.</li>
+        </ul>
+      </details>
+      <p align="right"><a href="https://github.com/nithinreddy18?tab=repositories"><kbd>↗ Launch Repository</kbd></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Hybrid Perishable Inventory Forecaster</h3>
+      <h4><code>SYS-04</code> 📦 Hybrid Perishable Inventory Forecaster</h4>
       <p>
-        <img src="https://img.shields.io/badge/PyTorch_LSTM-EE4C2C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Random_Forest-F7931E?style=flat-square" />
-        <img src="https://img.shields.io/badge/Time_Series-0078D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-LSTM_+_Random_Forest-8957e5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-PyTorch_%7C_Time_Series-1f6feb?style=flat-square" />
       </p>
-      <p>Predictive supply-chain engine combining Recurrent Neural Networks with ensemble decision trees to capture both sequential seasonality and non-linear feature interactions for waste reduction.</p>
-      <a href="https://github.com/nithinreddy18?tab=repositories"><b>📂 Explore Repository →</b></a>
+      <p><code>Pipeline:</code> <code>Temporal Sequences → LSTM + RF Ensemble → Stock Quota</code></p>
+      <p>Dual-stage predictive analytics system combining deep sequential modelling with ensemble tree architectures to optimise perishable supply-chain inventory and cut spoilage.</p>
+      <details>
+        <summary><kbd>▶ Inspect System Architecture & Specs</kbd></summary>
+        <br>
+        <ul>
+          <li><b>Hybrid Modelling:</b> Uses PyTorch LSTMs to capture temporal decay trends while Random Forests handle exogenous tabular covariates.</li>
+        </ul>
+      </details>
+      <p align="right"><a href="https://github.com/nithinreddy18?tab=repositories"><kbd>↗ Launch Repository</kbd></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖐️ Touchless Gesture Media Controller</h3>
+      <h4><code>SYS-05</code> 🖐️ Touchless Gesture Media Controller</h4>
       <p>
-        <img src="https://img.shields.io/badge/Accuracy-92%25-2ea44f?style=flat-square" />
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Recognition_Fidelity-92.0%25-2ea043?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-MediaPipe_%7C_OpenCV-1f6feb?style=flat-square" />
       </p>
-      <p>Low-latency computer vision interface mapping 21 3D hand-knuckle landmarks in real time to trigger OS media controls with 92% gesture recognition fidelity.</p>
-      <a href="https://github.com/nithinreddy18?tab=repositories"><b>📂 Explore Repository →</b></a>
+      <p><code>Confidence:</code> <code>██████████████████░░ 92%</code></p>
+      <p>Real-time spatial vision interface tracking 21 3D hand-knuckle coordinates to execute low-latency operating system media actions without physical contact.</p>
+      <p align="right"><a href="https://github.com/nithinreddy18?tab=repositories"><kbd>↗ Launch Repository</kbd></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>😷 Real-Time Spatial Mask Compliance</h3>
+      <h4><code>SYS-06</code> 😷 Real-Time Spatial Mask Compliance</h4>
       <p>
-        <img src="https://img.shields.io/badge/Accuracy-95%25-2ea44f?style=flat-square" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Detection_Accuracy-95.0%25-2ea043?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-TensorFlow_%7C_Keras_%7C_OpenCV-1f6feb?style=flat-square" />
       </p>
-      <p>High-throughput convolutional vision pipeline built for live video feeds, delivering 95% classification accuracy across variable lighting and occlusion conditions.</p>
-      <a href="https://github.com/nithinreddy18?tab=repositories"><b>📂 Explore Repository →</b></a>
+      <p><code>Confidence:</code> <code>███████████████████░ 95%</code></p>
+      <p>High-FPS convolutional vision system built for live video feeds, maintaining 95% classification accuracy across variable lighting and partial facial occlusion.</p>
+      <p align="right"><a href="https://github.com/nithinreddy18?tab=repositories"><kbd>↗ Launch Repository</kbd></a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ Engineering & Research Highlights
+<a id="05-execution-logs"></a>
+### `05 // FIELD DEPLOYMENTS & INDUSTRIAL EXECUTION LOGS`
 
-* **🛰️ 3D LiDAR Industrial AI Challenge (hessian.AI)**
-  Built 3D point-cloud deep learning pipelines for automated bunker fill-level estimation and crane waste-mix optimisation during the Waste-to-Energy Industry Challenge Hackathon.
-* **🧬 NeuroAI & Biological Vision Alignment**
-  Investigating Representational Similarity Analysis using the Net2Brain toolbox at TU Darmstadt to compare deep computer vision backbones against human brain neural recordings.
-* **🏢 Enterprise Software Engineering @ Siemens**
-  Developed modular C# and C++ backend components alongside Angular user interfaces for industrial software systems.
-* **📊 High-Volume Data Engineering @ Increff**
-  Architected resilient Python and SQL ETL pipelines to process large-scale retail inventory and merchandising datasets.
+```yaml
+# VERIFIED RUNTIME LOGS // INDUSTRY, HACKATHONS & RESEARCH
+deployments:
+  - timestamp: "2026-09 -> PRESENT"
+    domain: "NeuroAI & Computational Vision @ TU Darmstadt"
+    focus: "Representational Similarity Analysis (RSA) & Net2Brain Toolbox"
+    impact: "Comparing internal activations of deep computer vision models against human neural brain recordings."
 
----
+  - timestamp: "2026-05"
+    domain: "hessian.AI Waste-to-Energy Industry Challenge Hackathon"
+    focus: "3D LiDAR Point-Cloud Deep Learning & Spatial Optimisation"
+    impact: "Engineered AI models for automated 3D bunker fill-level estimation and waste-mix crane optimisation in a four-engineer squad."
 
-### 🗺️ Career GitGraph & Learning Roadmap
+  - timestamp: "2025-04 -> 2025-09"
+    domain: "Software Developer Apprentice @ Siemens"
+    focus: "Enterprise C++, C#, and Angular Systems"
+    impact: "Built modular backend components and responsive industrial user interfaces inside production codebases."
 
-```mermaid
-gitGraph
-   commit id: "B.Tech CSE (AI & ML)"
-   branch industry-experience
-   checkout industry-experience
-   commit id: "Data Engineer Intern @ Increff"
-   commit id: "Software Dev Apprentice @ Siemens"
-   checkout main
-   merge industry-experience id: "M.Sc. AI & ML @ TU Darmstadt"
-   branch applied-ai-research
-   checkout applied-ai-research
-   commit id: "hessian.AI 3D LiDAR Hackathon"
-   commit id: "UniBike Agentic RAG Platform"
-   commit id: "NeuroAI & Vision RSA"
-   checkout main
-   merge applied-ai-research id: "2026 Milestone"
-   commit id: "Next: Distributed MLOps & Multi-Agent Systems" type: HIGHLIGHT
+  - timestamp: "2024-11 -> 2025-01"
+    domain: "Data Engineer Intern @ Increff"
+    focus: "High-Volume Python & SQL ETL Architecture"
+    impact: "Designed fault-tolerant data pipelines processing large-scale retail and merchandising datasets."
 ```
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 Active Learning Goals</h4>
-      <ul>
-        <li><b>Stateful Multi-Agent Systems</b> Designing cyclical, self-correcting agent graphs with deterministic tool validation in LangGraph.</li>
-        <li><b>High-Throughput LLM Serving</b> Implementing AWQ/GGUF quantisation, LoRA fine-tuning, and low-latency inference with vLLM.</li>
-        <li><b>Neuro-Symbolic & Brain-Aligned AI</b> Bridging human visual cortex representations with modern Vision Transformers.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Practical Execution Roadmap</h4>
-      <ul>
-        <li>✅ <b>Q1–Q2 2026</b> Ship production-ready RAG systems, AST developer tools, and 3D LiDAR spatial models.</li>
-        <li>✅ <b>Q3 2026</b> Advance graduate coursework in Probabilistic Graphical Models, NLP, and Computer Vision.</li>
-        <li>🔄 <b>Q4 2026</b> Benchmark neural representations with Net2Brain and publish open-source evaluation harnesses.</li>
-        <li>⏳ <b>2027 Target</b> Scale distributed multi-GPU model training and contribute to core open-source AI frameworks.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 GitHub Telemetry & Activity
-
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nithinreddy18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinreddy18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithinreddy18&bg_color=0d1117&color=58a6ff&line=a371f7&point=3fb950&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nithinreddy18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5" alt="GitHub Telemetry" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinreddy18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Language Distribution" />
 </div>
 
 ---
 
-### 🤝 Let's Build Something Intelligent
+<a id="06-training-schedule"></a>
+### `06 // MODEL TRAINING EPOCHS: LEARNING GOALS & ROADMAP`
 
-> [!TIP]
-> I am actively looking to collaborate on **AI/ML research projects**, **Working Student or Internship roles in Germany**, and **open-source LLM/Vision tooling**.
+| Epoch | Execution Window | Target Subsystem | Convergence Criteria & Deliverables | Status |
+| :--- | :--- | :--- | :--- | :---: |
+| **`EPOCH 01`** | `Completed` | **Enterprise & Data Foundations** | Ship production C++/C# modules at Siemens, scale SQL/Python ETL at Increff, and complete B.Tech in AI & ML. | `🟢 CONVERGED` |
+| **`EPOCH 02`** | `Completed` | **Applied GenAI & 3D Vision** | Deploy Llama 3.1 RAG systems, AST documentation engines, and 3D LiDAR point-cloud models at hessian.AI; complete graduate exams in PGMs, NLP, and Vision at TU Darmstadt. | `🟢 CONVERGED` |
+| **`EPOCH 03`** | `Q4 2026` | **Stateful Agents & NeuroAI** | Master cyclical multi-agent orchestration in LangGraph, quantised LLM serving (`vLLM`, `AWQ`, `GGUF`), and benchmark brain-aligned vision models via `Net2Brain`. | `🔵 IN TRAINING` |
+| **`EPOCH 04`** | `2027 Horizon` | **Distributed MLOps & Open Weights** | Scale multi-GPU distributed training pipelines, publish open-source evaluation benchmarks, and architect autonomous industrial AI systems in Germany. | `⚪ SCHEDULED` |
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <b>💼 Professional Network</b><br><br>
-      <a href="https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/">
-        <img src="https://img.shields.io/badge/Message_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a><br>
-      <sub>Fastest response for roles, research, and networking.</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>🐙 Code & Pull Requests</b><br><br>
-      <a href="https://github.com/nithinreddy18">
-        <img src="https://img.shields.io/badge/Collaborate_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a><br>
-      <sub>Open an issue or discussion on any repository.</sub>
-    </td>
-    <td width="33%" align="center">
-      <b>📍 Current Base</b><br><br>
-      <img src="https://img.shields.io/badge/Darmstadt_%2F_Frankfurt-Germany_🇩🇪-2ea44f?style=for-the-badge" alt="Location" /><br>
-      <sub>Available for on-site, hybrid, and remote engineering.</sub>
-    </td>
-  </tr>
-</table>
+---
+
+<a id="07-api-endpoints"></a>
+### `07 // API ENDPOINTS & COLLABORATION PROTOCOL`
+
+You can initiate a connection with my node using the following endpoints. I am actively open to **Working Student and Internship opportunities in Germany**, **AI/ML research collaborations**, and **open-source engineering**.
+
+```http
+POST /v1/collaborate/message HTTP/2
+Host: [github.com/nithinreddy18](https://github.com/nithinreddy18)
+Content-Type: application/json
+
+{
+  "target": "Malluri Nithin Reddy",
+  "location": "Darmstadt / Frankfurt Rhine-Main Area, Germany",
+  "available_for": ["Working Student (AI/ML/Data)", "Research Assistantships", "Open-Source PRs"],
+  "languages": ["English (C1)", "German (B1 Coursework)", "Telugu (Native)"]
+}
+```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=80&section=footer" width="100%" alt="Footer Wave" />
+
+  <a href="https://www.linkedin.com/in/nithin-reddy-malluri-54198b272/">
+    <img src="https://img.shields.io/badge/POST_%2Fv1%2Flinkedin-Connect_With_Nithin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Endpoint" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nithinreddy18?tab=repositories">
+    <img src="https://img.shields.io/badge/GET_%2Fv1%2Frepositories-Inspect_Source_Code-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Repositories Endpoint" />
+  </a>
+
+  <br><br>
+  <sub><code>STATUS 200 OK</code> · Engineered with deterministic precision by <b>Malluri Nithin Reddy</b></sub>
+
 </div>
