@@ -1,6 +1,3 @@
-Here is the complete, ready-to-use `README.md` content designed for your `nithinreddy18/nithinreddy18` repository.
-
-```markdown
 <div align="center">
 
   <!-- Animated Typing Header -->
@@ -142,5 +139,3 @@ I am always open to discussing **AI/ML research collaborations**, **Working Stud
   <br>
   <img src="https://img.shields.io/badge/Built%20with-Passion%20%26%20PyTorch-EE4C2C?style=flat-square" alt="Footer Badge" />
 </div>
-
-```
